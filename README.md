@@ -1,2 +1,2 @@
 # vuepress
-## Rajashekar Gande
+# vuepress
