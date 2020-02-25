@@ -1,0 +1,4 @@
+The Following are necessary for this session:
+1.Command Prompt
+2.Visual Code
+3.GitHub
